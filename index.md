@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Mellow Math
 
 You can use the [editor on GitHub](https://github.com/r-00-c/mellow-math/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
